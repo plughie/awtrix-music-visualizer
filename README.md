@@ -1,6 +1,7 @@
 # AWTRIX Music Visualizer
 
 Real-time music visualizer for the **Ulanzi TC001** smart clock running AWTRIX 3.
+Forked from https://github.com/jonsts/awtrix-music-visualizer
 
 Your PC captures the audio, runs an FFT, maps it to frequency bands, and streams
 frames to the clock's 32x8 RGB matrix over HTTP or MQTT.
